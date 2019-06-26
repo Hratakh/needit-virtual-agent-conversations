@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_oidc_entity">
+    <oauth_oidc_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url>invalid_value</auth_url>
+        <automatically_import_users>false</automatically_import_users>
+        <certificate_url/>
+        <client_id>49471a10-fdbc-4ffb-b0b8-944f3df985d9</client_id>
+        <client_secret>zHcW+saboDUHPN6FsHqTtw==</client_secret>
+        <client_uuid>975e6c1d375e7300ed0dded993990e61</client_uuid>
+        <clock_skew>300</clock_skew>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>client_credentials</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <import_data_source/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <name>ServiceNow Virtual Agent Teams App</name>
+        <oauth_api_script/>
+        <oidc_provider_configuration display_value="Microsoft Teams">175e6c1d375e7300ed0dded993990e5d</oidc_provider_configuration>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>invalid_value</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <revoke_token_url/>
+        <roles_for_imported_users/>
+        <salt/>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_oidc_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 11:43:33</sys_created_on>
+        <sys_id>575e6c1d375e7300ed0dded993990e61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow Virtual Agent Teams App</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_336554_needit_vi">339ab22b37823300ed0dded993990e20</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">339ab22b37823300ed0dded993990e20</sys_scope>
+        <sys_update_name>oauth_oidc_entity_575e6c1d375e7300ed0dded993990e61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 11:43:33</sys_updated_on>
+        <token_url>https://login.microsoftonline.com/botframework.com/oauth2/v2.0/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_oidc_entity>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="profile-for-575e6c1d375e7300ed0dded993990e61">d75ea05d375e7300ed0dded993990e7d</oauth_entity_profile>
+        <oauth_entity_scope display_value="scope-0">1f5e6c1d375e7300ed0dded993990e61</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 11:43:34</sys_created_on>
+        <sys_id>1b5ea05d375e7300ed0dded993990e7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d75ea05d375e7300ed0dded993990e7d</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_336554_needit_vi">339ab22b37823300ed0dded993990e20</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">339ab22b37823300ed0dded993990e20</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_1b5ea05d375e7300ed0dded993990e7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 11:43:34</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_adapter_configuration_page_teams">
+    <sys_cs_adapter_configuration_page_teams action="INSERT_OR_UPDATE">
+        <client_type>teams</client_type>
+        <external_id>59164322-2562-425e-bc9c-f0ee307922f0</external_id>
+        <icon/>
+        <name>comparex-group</name>
+        <provider_auth display_value="ServiceNow Virtual Agent Teams App - 59164322-2562-425e-bc9c-f0ee307922f0">9b5e6c1d375e7300ed0dded993990e5c</provider_auth>
+        <state>installed</state>
+        <sys_class_name>sys_cs_adapter_configuration_page_teams</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 11:43:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d75ea05d375e7300ed0dded993990e83</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>59164322-2562-425e-bc9c-f0ee307922f0</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_336554_needit_vi">339ab22b37823300ed0dded993990e20</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">339ab22b37823300ed0dded993990e20</sys_scope>
+        <sys_update_name>sys_cs_adapter_configuration_page_teams_d75ea05d375e7300ed0dded993990e83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 11:43:34</sys_updated_on>
+    </sys_cs_adapter_configuration_page_teams>
+</record_update>
